@@ -19,6 +19,7 @@ The results file can be used to compare the final output of the program to the e
 ## How to use:
 (Assuming you have installed the Requirements by their **default** settings...)
 1. Download reporterdb.py, Vagrantfile, views.sql, and newsdata.sql from this repository.
+2. Download newsdata.sql from [link](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
 3. Put reporterdb.py, Vagrantfile, newsdata.sql, and views.sql into a new directory called 'vagrant' inside another directory. (ie "Downloads/logAnalysis/vagrant")
 4. Open Terminal and navigate to the previous directory
 5. Type "vagrant up" followed by "vagrant ssh"
