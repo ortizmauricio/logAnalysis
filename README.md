@@ -7,7 +7,7 @@ of PostgreSQL and a Python Database the following questions:
 2) What is the authors' ranking by access counts?
 3) In which day did errors occur more than 1% of the transactions?
 
-In order to enhance the readibility of the program, 3 views were created to minimize
+In order to enhance the readability of the program, 3 views were created to minimize
 the size of queries. These views can be installed by following the instructions below.
 The results file can be used to compare the final output of the program to the expected results
 
